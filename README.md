@@ -1,6 +1,5 @@
 # Employee-Tracker-AnnieSosa
 
-# Employee Database Manager
 
 ## Description
 
@@ -23,9 +22,6 @@ node app.js
 
 Follow the prompts in the command line to perform actions such as adding employees, updating roles, and viewing department details. The application will interact with the MySQL database to ensure accurate and real-time data management.
 
-## Screenshots
-
-_Insert screenshots of command-line application in action._
 
 ## Credits
 
@@ -42,4 +38,4 @@ Key technologies and libraries used:
 
 ## License
 
-MIT License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#insert_actual_license_link_here)
+MIT License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
